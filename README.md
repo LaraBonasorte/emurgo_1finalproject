@@ -16,7 +16,7 @@ _"a historical event occurs every 10 centuries!"_
 The payer is they who, after a determined event, needs to transfer their personal funds in order to comply with the law (bill payment).
 
 # The Simplification
-This smart contract was written and created with a goal of simplifying the Utility Bills payment by using the Ethereum Blockchain Technology. It is hereby stated that this Smart Contract is not official or created for/by Utility Services Companies worldwide. DO NOT USE THIS CONTRACT WITHOUT PREVIOUS ANALYSIS.
+This smart contract was written and created with a goal of simplifying the Utility Bills payment by using the Ethereum Blockchain Technology. It is hereby stated that this Smart Contract is not official and/or created for/by Utility Services Companies worldwide. DO NOT USE THIS CONTRACT WITHOUT PREVIOUS ANALYSIS.
 
 # Contract
 Contract is enabled when:
